@@ -1,0 +1,9 @@
+<suite name = "TestSuite">
+<test name="MyplanetContactUsPage" preserve-order="true">
+<classes>
+	<class name="frontend.tests.TestSuite">
+	</class>
+</classes>
+</test>
+
+</suite>
